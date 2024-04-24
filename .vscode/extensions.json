@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "usernamehw.errorlens",
+    "standard.vscode-standard",
+    "capaj.vscode-standardjs-snippets",
+    "timonvs.reactsnippetsstandard",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-next",
+    "yoavbls.pretty-ts-errors",
+    "burkeholland.simple-react-snippets",
+    "sonarsource.sonarlint-vscode",
+    "stylelint.vscode-stylelint",
+    "mattpocock.ts-error-translator",
+    "zixuanchen.vitest-explorer",
+    "shardulm94.trailing-spaces",
+    "kamikillerto.vscode-colorize"
+  ]
+}
